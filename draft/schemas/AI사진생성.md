@@ -7,20 +7,20 @@
 
 ### 축 1 — 스타일
 - 좌: 사진 같은 현실적 / 우: 일러스트/만화/추상적
-- 좌 신호 키워드: 사진, 현실적, 포토리얼, 실제, 진짜, 3D 렌더링, 사실적
-- 우 신호 키워드: 일러스트, 만화, 카툰, 드로잉, 손그림, 추상적, 판타지, 컨셉아트, 스타일라이즈
+- 좌 신호 키워드: 사진, 현실적, 포토리얼, 실제, 진짜, 3D 렌더링, 사실적, photo, realistic, photorealistic, real, authentic, 3D rendering, photographic
+- 우 신호 키워드: 일러스트, 만화, 카툰, 드로잉, 손그림, 추상적, 판타지, 컨셉아트, 스타일라이즈, illustration, comic, cartoon, drawing, hand-drawn, abstract, fantasy, concept art, stylized
 - 기본값: 좌 (사진 같은 현실적)
 
 ### 축 2 — 주요 피사체
 - 좌: 인물 중심 / 우: 인물 중심 아님(풍경·물건·동물)
-- 좌 신호 키워드: 사람, 인물, 초상화, 인물 사진, 사람 사진, 여성 인물, 남성 인물, 인물 포즈, 모델
+- 좌 신호 키워드: 사람, 인물, 초상화, 인물 사진, 사람 사진, 여성 인물, 남성 인물, 인물 포즈, 모델, person, portrait, figure, character portrait, people photo, female, male, pose, model
 - 우 신호 키워드: 풍경, 자연, 건물, 물건, 제품, 동물, 강아지, 고양이, 숲, 바다, 도시, 음식
-- 기본값: 좌 (인물 중심)
+- 기본값: 좌 (인물 중심), landscape, nature, building, object, product, animal, dog, cat, forest, sea, city, food
 
 ### 축 3 — 구도/프레이밍
 - 좌: 클로즈업(피사체의 일부·세부 중심) / 우: 광활한 뷰(전체·배경 중심)
-- 좌 신호 키워드: 클로즈업, 가까운, 확대, 세부, 근접, 헤드샷, 디테일
-- 우 신호 키워드: 멀리서, 광각, 전체 샷, 배경 포함, 전경, 넓게, 드넓은, 와이드 샷
+- 좌 신호 키워드: 클로즈업, 가까운, 확대, 세부, 근접, 헤드샷, 디테일, closeup, close, zoom, detail, macro, headshot, detailed
+- 우 신호 키워드: 멀리서, 광각, 전체 샷, 배경 포함, 전경, 넓게, 드넓은, 와이드 샷, far, wide angle, full shot, background, wide, expansive, panoramic, wide shot
 - 기본값: 우 (광활한 뷰)
 
 ## 고정 규칙
